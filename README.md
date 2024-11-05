@@ -2,8 +2,7 @@
 
 Hi 👋 My name is Trinh Thu Trang
 ================================
-
-Java Backend Developer
+Backend Developer
 ----------------------
 
 I’m a passionate software developer with over 2 years of experience in developing software systems. I love tackling complex problems and turning innovative ideas into reality through code. Let's connect and create something amazing together!
