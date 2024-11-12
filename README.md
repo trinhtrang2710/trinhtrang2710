@@ -1,16 +1,11 @@
-<img align="right" alt="Coding"  width="400" height="300" src="https://media3.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=ecf05e4748lbmhm7k1rnxlrifkft906xbp6ef6toqtxwelb5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+Hi 👋 I'm Trang
 
-Hi 👋 My name is Trinh Thu Trang
-
-Backend Developer
-
-I’m a passionate software developer with over 2 years of experience in developing software systems. I love tackling complex problems and turning innovative ideas into reality through code. Let's connect and create something amazing together!
+I'm a Backend Developer
+Let's connect and create something amazing together!
 
 * 🌍  I'm based in Hanoi
 * ✉️  You can contact me at [trinhtrang371@gmail.com](mailto:trinhtrang371@gmail.com)
-* 🧠  I'm learning Backend | System Design | Optimize Database
-* 🤝  I'm open to collaborating on Fintech
-
+* 🧠  I'm learning Backend | System Design | Optimize Databas
 ### Skills
 
 
